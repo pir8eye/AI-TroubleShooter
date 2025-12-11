@@ -1,4 +1,4 @@
-# Testing Protocol: Claude Model Restriction Debugging
+# Testing Protocol: Claude Sonnet 4.5 & 4.0 Models Restriction Debugging
 
 Standard operating procedure for conducting, documenting, and reporting tests of model behavior differentials.
 
