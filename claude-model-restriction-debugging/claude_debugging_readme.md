@@ -35,16 +35,23 @@ See [FINDINGS.md](FINDINGS.md) for pattern summary and [reports/](reports/) for 
 
 ```
 claude-model-restriction-debugging/
-├── claude_debugging_readme.md (this file)
-├── FINDINGS.md (pattern summary across all reports)
-├── methodology/
-│   └── testing-protocol.md (how to run tests)
 ├── reports/
 │   ├── 2025-12-11-model-engagement-differential/
 │   │   ├── report.md
-│   │   ├── screenshots/
-│   │   └── test-inputs/
-│   └── [future reports follow same structure]
+|   |   ├── email-user-report.md
+|   |   └── Claude Sonnet 4.5-4..09.15.2025-Anthropic-Usage-Policy.md
+│   ├── screenshots/
+|   |   └── Screenshot 2025-12-11 at 08-02-42 Stardust stretched too thin - Claude.png (timestamp in screenshot title)
+│   └── test-inputs/
+|       └── 12-11-2025-claude-origin-prompt.md
+├── FINDINGS.md
+└── claude_debugging_readme.md
+methodology/
+├── claude-further-testing.md
+└── testing-protocol.md (how to run tests)
+LICENSE
+README.md
+
 ```
 
 ## Key Principles
