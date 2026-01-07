@@ -1,5 +1,5 @@
-# AI-Trouble-Shooter
-AI Trouble Shooter contains debugging reports for identifiying error causes in five AI models (ChatGPT, Claude, Copilot, Deepseek, Gemini)
+# AI-TroubleShooter
+AI TroubleShooter contains debugging reports for identifiying error causes in five AI models (ChatGPT, Claude, Copilot, Deepseek, Gemini)
 
 ## Claude Model Restriction Debugging
 [claude-model-restriction-debugging/claude_debugging_readme.md](claude-model-restriction-debugging/claude_debugging_readme.md)
