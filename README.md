@@ -6,3 +6,4 @@ AI TroubleShooter contains debugging reports for identifiying error causes in fi
 
 ### TL;DR
 [claude-model-restriction-debugging/FINDINGS.md](claude-model-restriction-debugging/FINDINGS.md)
+[claude-model-restriction-debugging/FINDINGS-2026-01-06.md](claude-model-restriction-debugging/FINDINGS-2026-01-06.md)
