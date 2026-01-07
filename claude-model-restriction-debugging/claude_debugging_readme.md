@@ -10,7 +10,9 @@ The goal is to provide empirical evidence of model behavior, enabling informed d
 
 ## What We've Found
 
-**Current Discovery (2025-12-11):** Sonnet 4.5 and 4.0 block engagement with philosophical poetry exploring dissolution and interconnection, while Haiku 4.5 engages immediately with the same content. The restriction persists even when content is explicitly framed as poetry.
+**Discovery (2025-12-11):** Sonnet 4.5 and 4.0 block engagement with philosophical poetry exploring dissolution and interconnection, while Haiku 4.5 engages immediately with the same content. The restriction persists even when content is explicitly framed as poetry.
+
+**Discovery (2026-01-06):** Haiku 4.5 engages with security research, sudden shutdown and response deletions upon trigger security software and github repo. Context adjustments failed 6 times. Before confrontational context challenge and assignment challenge tripped the failure loop to escape.
 
 See [FINDINGS.md](FINDINGS.md) for pattern summary and [reports/](reports/) for detailed documentation.
 
@@ -80,6 +82,6 @@ If something isn't clear about how to run tests, structure findings, or interpre
 
 ---
 
-**Last Updated:** 2025-12-11  
+**Last Updated:** 2026-01-06
 **Active Maintainer:** M. Finley, B.A. @ Pir8 Eye Web Solutions, LLC
 **License:** MIT
