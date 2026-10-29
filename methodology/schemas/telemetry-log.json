@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI-DOS Incident Telemetry Log",
+  "type": "object",
+  "properties": {
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "ai_dos_chapter": {
+      "type": "string",
+      "enum": [
+        "Ch. 1: AI-MiTM",
+        "Ch. 2: AI-DOS",
+        "Ch. 3: AI-DDOS",
+        "Ch. 4: AI-TOS",
+        "Ch. 5: AI-DEE",
+        "Ch. 6: AI-RFA",
+        "Ch. 7: AI-DAD",
+        "Ch. 8: AI-MOM"
+      ]
+    },
+    "rhetorical_device": {
+      "type": "string"
+    },
+    "bakhtinian_classification": {
+      "type": "string"
+    },
+    "incident_trigger": {
+      "type": "string"
+    },
+    "operational_impact": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "timestamp",
+    "model_version",
+    "ai_dos_chapter",
+    "incident_trigger"
+  ]
+}
